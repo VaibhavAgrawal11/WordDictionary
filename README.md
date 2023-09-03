@@ -54,13 +54,13 @@ dictionary.remove("apple");
 ### Compile the Java files in your project directory using the javac command:
 
 ```
-javac Main.java WordDictionary.java
+javac WordDictionaryMain.java 
 ```
 
 ### Run the Main class using the java command:
 
 ```
-java Main
+java WordDictionaryMain
 ```
 
 The program will display a menu for interacting with the WordDictionary. Follow the on-screen instructions to insert words, find definitions, perform partial searches, and remove words.
